@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.random-color-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.random-color-container button {
+  background-color: lightgray;
+  border: none;
+  padding: 10px;
+}
+.random-color-container button:hover {
+  background-color: gray;
+  cursor: pointer;
+}/*# sourceMappingURL=main.css.map */
